@@ -1,0 +1,95 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="ComposerJsonPluginSettings">
+        <unboundedVersionInspectionSettings>
+          <excludedPackages />
+        </unboundedVersionInspectionSettings>
+        <customRepositories />
+      </component>
+      <component name="ComposerSettings">
+        <pharPath>/usr/local/bin/composer</pharPath>
+      </component>
+      <component name="ESLintProjectComponent">
+        <option name="eslintRcFile" value="" />
+        <option name="eslintExecutable" value="$USER_HOME$/.nvm/versions/node/v6.10.1/bin/eslint" />
+        <option name="nodeInterpreter" value="$USER_HOME$/.nvm/versions/node/v6.10.1/bin/node" />
+        <option name="pluginEnabled" value="true" />
+      </component>
+      <component name="InspectionProjectProfileManager">
+        <profile version="1.0">
+          <option name="myName" value="Project Default" />
+          <inspection_tool class="Eslint" enabled="true" level="ERROR" enabled_by_default="true" />
+          <inspection_tool class="Stylelint" enabled="true" level="ERROR" enabled_by_default="true" />
+        </profile>
+        <version value="1.0" />
+      </component>
+      <component name="JavaScriptSettings">
+        <option name="languageLevel" value="ES6" />
+      </component>
+      <component name="JsBowerSettings">
+        <node-interpreter value="project" />
+        <exe-path>$USER_HOME$/.nvm/versions/node/v6.10.1/bin/bower</exe-path>
+        <config-path />
+      </component>
+      <component name="JsFlowSettings">
+        <service-enabled>true</service-enabled>
+        <exe-path />
+        <annotation-enable>false</annotation-enable>
+        <other-services-enabled>true</other-services-enabled>
+      </component>
+      <component name="MongoConfiguration">
+        <option name="serverConfigurations">
+          <list>
+            <ServerConfiguration>
+              <option name="label" value="Localhost" />
+              <option name="serverUrls">
+                <list>
+                  <option value="localhost:27017" />
+                </list>
+              </option>
+              <option name="sshTunnelingConfiguration">
+                <SshTunnelingConfiguration />
+              </option>
+            </ServerConfiguration>
+          </list>
+        </option>
+        <option name="shellPath" value="/usr/bin/mongo" />
+      </component>
+      <component name="PhingConfiguration">
+        <phingPath>$USER_HOME$/apps/Phing/phing-latest.phar</phingPath>
+      </component>
+      <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP 5.6" />
+      <component name="PropertiesComponent">
+        <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Confirmation" />
+        <property name="nodejs_interpreter_path" value="$USER_HOME$/.nvm/versions/node/v6.10.1/bin/node" />
+        <property name="node.js.path.for.package.tslint" value="$USER_HOME$/.nvm/versions/node/v6.10.1/bin/node" />
+        <property name="node.js.selected.package.tslint" value="" />
+        <property name="node.js.path.for.package.stylelint" value="$USER_HOME$/.nvm/versions/node/v6.10.1/bin/node" />
+        <property name="node.js.selected.package.stylelint" value="$USER_HOME$/.nvm/versions/node/v6.10.1/lib/node_modules/stylelint" />
+        <property name="last_opened_file_path" value="$USER_HOME$/.nvm/versions/node/v6.10.1/bin/bower" />
+        <property name="node.js.path.for.package.eslint" value="project" />
+        <property name="node.js.selected.package.eslint" value="$USER_HOME$/.nvm/versions/node/v6.10.1/lib/node_modules/eslint" />
+        <property name="node.js.path.for.package.standard" value="project" />
+        <property name="node.js.selected.package.standard" value="$USER_HOME$/.nvm/versions/node/v6.10.1/lib/node_modules/eslint" />
+        <property name="node.js.path.for.package.jscs" value="project" />
+        <property name="node.js.selected.package.jscs" value="" />
+        <property name="JavaScriptPreferStrict" value="true" />
+        <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+      </component>
+      <component name="StylelintService">
+        <option name="executable" value="$USER_HOME$/.nvm/versions/node/v6.10.1/bin/stylelint" />
+      </component>
+      <component name="SvnConfiguration">
+        <configuration>$USER_HOME$/.subversion</configuration>
+      </component>
+      <component name="VagrantProjectSettings">
+        <option name="instanceFolder" value="" />
+        <option name="provider" value="" />
+      </component>
+      <component name="VcsContentAnnotationSettings">
+        <option name="myLimit" value="2678400000" />
+      </component>
+    </defaultProject>
+  </component>
+</application>
