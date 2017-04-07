@@ -339,6 +339,9 @@
   <action id="StepOut" />
   <action id="StepOver" />
   <action id="Stop" />
+  <action id="StringManipulation.Sort">
+    <keyboard-shortcut first-keystroke="f5" />
+  </action>
   <action id="SurroundWith" />
   <action id="SurroundWithLiveTemplate" />
   <action id="SwitchCoverage" />
@@ -383,9 +386,6 @@
   <action id="WebOpenInAction" />
   <action id="XDebugger.NewWatch" />
   <action id="XDebugger.SetValue" />
-  <action id="XDebugger.ToggleSortValues">
-    <keyboard-shortcut first-keystroke="f5" />
-  </action>
   <action id="XPathView.Actions.Evaluate" />
   <action id="XPathView.Actions.FindByExpression" />
   <action id="XPathView.Actions.ShowPath" />
