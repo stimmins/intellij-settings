@@ -1,0 +1,18 @@
+<application>
+  <component name="DiffManager">
+    <enableFiles value="true" />
+    <enableMerge value="true" />
+    <filesTool value="/usr/bin/meld" newValue="/usr/bin/meld" />
+    <mergeTool value="/usr/bin/meld" newValue="/usr/bin/meld" />
+    <mergeToolParameters value="&quot;%1&quot; &quot;%3&quot; &quot;%2&quot; --output &quot;%4&quot;" />
+  </component>
+  <component name="ExternalDiffSettings">
+    <option name="DIFF_ENABLED" value="true" />
+    <option name="DIFF_DEFAULT" value="true" />
+    <option name="DIFF_EXE_PATH" value="/usr/bin/meld" />
+    <option name="DIFF_PARAMETERS" value="&quot;%1&quot; &quot;%3&quot; &quot;%2&quot;" />
+    <option name="MERGE_ENABLED" value="true" />
+    <option name="MERGE_EXE_PATH" value="/usr/bin/meld" />
+    <option name="MERGE_PARAMETERS" value="&quot;%1&quot; &quot;%3&quot; &quot;%2&quot; --output &quot;%4&quot;" />
+  </component>
+</application>
