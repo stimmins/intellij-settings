@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '[node-red-contrib-hs100] - .../src'" />
-    <option name="defaultScopeName" value="Directory '[node-red-contrib-hs100] - .../src'" />
-    <option name="SEARCH_SCOPE" value="Directory '[node-red-contrib-hs100] - .../src'" />
+    <option name="customScope" value="Directory '[vasari] - .../workers/artnet-news'" />
+    <option name="defaultScopeName" value="Directory '[vasari] - .../workers/artnet-news'" />
+    <option name="SEARCH_SCOPE" value="Directory '[vasari] - .../workers/artnet-news'" />
   </component>
 </application>
