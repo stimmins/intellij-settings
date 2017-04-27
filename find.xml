@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '[vasari] - .../workers/parsers/art-world'" />
-    <option name="defaultScopeName" value="Directory '[vasari] - .../workers/parsers/art-world'" />
-    <option name="SEARCH_SCOPE" value="Directory '[vasari] - .../workers/parsers/art-world'" />
+    <option name="customScope" value="Directory '[vasari] - .../common/libs/parsers'" />
+    <option name="defaultScopeName" value="Directory '[vasari] - .../common/libs/parsers'" />
+    <option name="SEARCH_SCOPE" value="Directory '[vasari] - .../common/libs/parsers'" />
   </component>
 </application>
