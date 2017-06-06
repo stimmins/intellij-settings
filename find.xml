@@ -1,11 +1,11 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'ai'" />
-    <option name="defaultScopeName" value="Project 'ai'" />
+    <option name="customScope" value="Project 'vasari-html-page-classifier'" />
+    <option name="defaultScopeName" value="Project 'vasari-html-page-classifier'" />
     <option name="localCaseSensitive" value="true" />
     <option name="regularExpressions" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="Project 'ai'" />
+    <option name="SEARCH_SCOPE" value="Project 'vasari-html-page-classifier'" />
   </component>
 </application>
