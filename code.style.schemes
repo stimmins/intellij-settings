@@ -2,6 +2,7 @@
   <component name="CodeStyleSettingsManager">
     <option name="PER_PROJECT_SETTINGS">
       <value>
+        <option name="RIGHT_MARGIN" value="80" />
         <JSCodeStyleSettings>
           <option name="USE_SEMICOLON_AFTER_STATEMENT" value="false" />
           <option name="FORCE_SEMICOLON_STYLE" value="true" />
